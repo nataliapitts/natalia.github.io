@@ -1,8 +1,3 @@
-/*
-	Custom scripts for ricardozea.net
-	Created by: Ricardo Zea
-	Date: 9/2012
-*/
 
 $(function() {
 	//Hide stuff for No-JavaScript version
