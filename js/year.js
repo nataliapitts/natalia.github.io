@@ -1,6 +1,6 @@
 /*
 Script to display the year in the footer.
-Edited by: Ricardo Zea
+
 */
 
 var time=new Date();
